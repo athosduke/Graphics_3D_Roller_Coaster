@@ -10,10 +10,10 @@ Use Vision Studio to run the program
 
 # Guide:
 Pressing W/A/S/D as well as moving the mouse will change the camera\
-Pressing B will toggle reflections for the track
-Pressing H will toggle heightmap
-Pressing N will remove/add mesh
-Pressing T will start follow the roller coaster track from the beginning
-Pressing T again during the trip will stop following
-Pressing ESC will exit this Program
-Pressing P will print information
+Pressing B will toggle reflections for the track\
+Pressing H will toggle heightmap\
+Pressing N will remove/add mesh\
+Pressing T will start follow the roller coaster track from the beginning\
+Pressing T again during the trip will stop following\
+Pressing ESC will exit this Program\
+Pressing P will print information\
